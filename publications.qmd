@@ -16,7 +16,7 @@ title: "Papers"
 
 # Accepted
 
-# ##2024
+## 2024
 
 41\. **Fong CR**, Rennick M, Gonzales CM, Lahr HJ, Gardner LE, Halpern BS, Froehlich HE. The structure and function of a state aquaculture plan. *In press* [at *Aquaculture* (June 2024)](https://www.sciencedirect.com/science/article/pii/S0044848624006252?dgcid=rss_sd_all)
 
@@ -26,7 +26,7 @@ title: "Papers"
 
 38\. **Fong CR**, Rennick M^†^, Gonzales CM^¨†^, Lahr HJ, Gardner LE, Halpern BS, Froehlich HE. Conflict and alignment on aquaculture among Californian communities. *In press* at *Aquaculture:* *p.740230.*
 
-2023
+## 2023
 
 37\. PH Barber^†^, JK. Barber-Choi, A Betancourt^¨†^, B Cuker, A Davis^¨^, **CR Fong**, P Fong, JJ Fong, DM Gibson^†^, TB Smith. Advancing diversity and inclusivity in ocean sciences by re-envisioning overlooked barriers in scientific diving training. *Oceanography* (accept November 8).
 
@@ -38,13 +38,13 @@ title: "Papers"
 
 33\. AM Betancourt\*^¨^, IF Fenwick\*^¨^, HB Howard\*^¨^, AE Long\*^¨^, P Fong,PH, Barber, **CR Fong**. Ontogenetic plasticity in thallus toughness may contribute to the spread of *Turbinaria ornata* across the South Pacific. *Journal of Phycology.* 59(1):277-80.
 
-2022
+## 2022
 
 32\. Gaynor K, Azeved A, Boyajian C, Brun J, Budden A, Cole A, Csik S, DeCesaro J^†^, Do-Linh H^†^, Dudney JK, García CG, Leonard S^†^, Lyon NJ, Marks A, Parish J^†^, Phillips AA, Ranganathan J, Scarborough C, Smith J, Thompson M, Poulsen CV, **Fong CR.** Ten simple rules to cultivate belonging in collaborative data science research teams. *Accepted* at *PLOS Computational Biology.*18(11):e1010567.
 
 31\. **Fong CR**, Rennick M^†^, Gonzales CM^†¨^, Lahr HJ, Gardner LE, Halpern BS, Froehlich HE. California aquaculture in the changing food seascape. *Aquaculture*. 553:738009.
 
-2021
+## 2021
 
 30\. **Fong CR**, Kennison R, Fong P. Nutrient subsidies to Southern California estuaries can be characterized as pulse-interpulse regimes that may be dampened with extreme eutrophy. *Estuaries and Coasts.* 44:867-874
 
@@ -56,7 +56,7 @@ title: "Papers"
 
 26\. Hayes HG\*^¨^, Kalhori PS\*^¨^, Weiss M\*, Grier S^†¨^, Fong P, **Fong CR**. Storm-generated plumes of terrestrial sediment can disrupt top down-control of algal turf on fringing reefs. *Coral Reefs*. 40:269-273
 
-2020
+## 2020
 
 25\. **Fong CR**, Ford AT\*^¨^, Howard HB\*^¨^, Molina N\*^¨^, Smith NN\*^¨^, Sura SA, Fong P. Testing the conceptual and operational underpinnings of herbivory assays: does variation in predictability of resources, assay design, and deployment methods affect outcomes?. *Journal of Experimental Marine Biology and Ecology.* 533:151469
 
@@ -68,7 +68,7 @@ title: "Papers"
 
 21\. Bittick SJ, Harvey JD\*, Johnson TM\*, Frymann, TA\*, Clausing RJ, **Fong CR**, and Fong P. Herbivory strength is similar or even greater in algal- compared to coral-dominated habitats on a recovering coral reef. *Marine Environmental Progress Series* 634:225-229
 
-2019
+## 2019
 
 20\. **Fong CR**, Kuris AM, Hechinger RF. Hermaphrodites and parasites: size-specific female reproduction drives infection by an ephemeral parasitic castrator. *Scientific Reports* 9(1):1-9
 
@@ -76,7 +76,7 @@ title: "Papers"
 
 18\. Bittick SJ, Scoma S\*, Clausing RJ, **Fong CR**, and Fong P. A rapidly expanding brown macroalga is a secondary foundation species in the South Pacific. *Ecosystems* 22(1):165-173
 
-2018
+## 2018
 
 17\. **Fong CR,** Chancellor KS\*•, Rezni JJ\*, Robinson DR\*•, Barber PH•, Habtes SY•, Fong P. Epibionts on *Turbinaria ornata*, a secondary foundational macroalga on coral reefs, provide diverse trophic support to fishes. *Marine Environmental Research* 141:39-43
 
@@ -86,11 +86,11 @@ title: "Papers"
 
 14\. **Fong CR,** Bittick SJ, Clausing RJ, Frias M\*, Goody N\*, Fong P. Empirical data demonstrates risk-tradeoffs between landscapes for herbivorous fish may promote reef resilience. *Marine Environmental Research* 131:1-5
 
-2017
+## 2017
 
 13\. **Fong CR** and Kuris AM. Predation on transmission stages reduces parasitism: sea anemones consume transmission stages of a barnacle parasite. *Parasitology* 144(7):917-922.
 
-2016
+## 2016
 
 12\. **Fong CR**, Moron NA^\*¨^, and Kuris AM. Two’s a crowd? Crowding effect in a parasitic castrator drives differences in reproductive resource allocation in single versus double infections. *Parasitology* 144(5):662-668.
 
@@ -104,7 +104,7 @@ title: "Papers"
 
 7\. **Fong CR**. High density and strong aggregation do not increase prevalence of an isopod parasite of an acorn barnacle. *Journal of Crustacean Biology* 36(1):46-49
 
-2015 and earlier
+## 2015 and earlier
 
 6\. Keeley KN^\*^, Stroh JD^\*^, Tran DSC^\*^, **Fong CR**, and Fong P. (2015) Location, location, location: small shifts in collection site result in large intraspecific differences in macroalgal palatability. *Coral Reefs* 34(2):607-610.
 
