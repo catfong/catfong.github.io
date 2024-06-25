@@ -10,7 +10,7 @@ website:
         text: Hello!
       - href: about.qmd
         text: NOOOOO
-      - href: publications.qm
+      - href: publications.qmd
         text: Papers
 
 format:
