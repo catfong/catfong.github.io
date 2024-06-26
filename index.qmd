@@ -1,11 +1,18 @@
 ---
-title: "Hello, I'm Cat"
+title: "Dr. Cat Fong"
+about:
+  template: jolla
+  image: face.jpg
+  links:
+    - icon: fire
+      text: WWRI
+      href: https://wildfireindex.org/
+    - icon: twitter
+      text: twitter
+      href: https://x.com/DrCatFong
+    - icon: github
+      text: Github
+      href: https://github.com/catfong
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Assistant Research Scientist at the National Center for Ecological Analysis and Synthesis

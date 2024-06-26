@@ -1,9 +1,10 @@
 ---
-title: "Things to know"
+title: "About"
+about:
+  template: trestles
+  image: face.jpg
 ---
 
-About this site
+# Research interests
 
-```{r}
-1 + 1
-```
+I am a broadly trained person who can do some really cool things

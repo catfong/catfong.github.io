@@ -2,16 +2,16 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Things to know",
+    "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Research interests\nI am a broadly trained person who can do some really cool things"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Hello, I’m Cat",
+    "title": "Dr. Cat Fong",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Assistant Research Scientist at the National Center for Ecological Analysis and Synthesis"
   },
   {
     "objectID": "publications.html",

@@ -3,13 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "hello world"
+  title: "Dr. Cat Fong"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Hello!
       - href: about.qmd
-        text: NOOOOO
+        text: About
+      - href: projects.qmd
+        text: Current Projects
       - href: publications.qmd
         text: Papers
 
