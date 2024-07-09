@@ -5,6 +5,6 @@ about:
   image: face.jpg
 ---
 
-# Research interests
+# [Research interests]{.pink-text}
 
-I am a broadly trained person who can do some really cool things
+<p class="pink-text">I am a broadly trained person who can do some really cool things</p>
