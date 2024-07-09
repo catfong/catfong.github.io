@@ -1,3 +1,35 @@
 ---
 title: "Projects"
 ---
+
+# Wildfire in the west
+
+I am doing some cool things with some super cool people
+
+Joe
+
+:   worked with him for a while
+
+Mona
+
+:   She is newer, MS from Reno
+
+Carlo
+
+:   He will leave in April
+
+Erika
+
+:   She likes movies
+
+![](forest.jpg)
+
+# Advancing a trait-based framework for seaweed ecology
+
+I have many ideas here and I'm very excited to do more things. I am very interested in forming collaborations and talking to everyone!
+
+![](face.jpg)
+
+# Sustainable food production
+
+I love food. And it is important!

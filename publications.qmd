@@ -22,15 +22,15 @@ title: "Papers"
 
 40\. **Fong CR**, Galaz García C^¨^, Abbasi E^†^, Gubbins N^†^, Jouzi Z. Broadening participation in environmental data science: insights from practitioners *Environmental Data Science* (accepted Feb 16).
 
-39\. **Fong CR**, Smith N\*^¨^, Catalan E\*^¨^, Alvarez B\*^¨^, Barber PH, Fong P. Herbivorous urchins support resilience on overfished and sedimented coral reefs? An experimental scenario evaluation. *Scientific Reports* (in press January 15)
+39\. **Fong CR**, Smith N\*^¨^, Catalan E\*^¨^, Alvarez B\*^¨^, Barber PH, Fong P. Herbivorous urchins support resilience on overfished and sedimented coral reefs? An experimental scenario evaluation. [*Scientific Reports* 14:3829](https://www.nature.com/articles/s41598-024-52222-0)
 
-38\. **Fong CR**, Rennick M^†^, Gonzales CM^¨†^, Lahr HJ, Gardner LE, Halpern BS, Froehlich HE. Conflict and alignment on aquaculture among Californian communities. *In press* at *Aquaculture:* *p.740230.*
+38\. **Fong CR**, Rennick M^†^, Gonzales CM^¨†^, Lahr HJ, Gardner LE, Halpern BS, Froehlich HE. Conflict and alignment on aquaculture among Californian communities. [*Aquaculture 580(1), 740230.*](https://www.sciencedirect.com/science/article/abs/pii/S0044848623010049)
 
 ## 2023
 
-37\. PH Barber^†^, JK. Barber-Choi, A Betancourt^¨†^, B Cuker, A Davis^¨^, **CR Fong**, P Fong, JJ Fong, DM Gibson^†^, TB Smith. Advancing diversity and inclusivity in ocean sciences by re-envisioning overlooked barriers in scientific diving training. *Oceanography* (accept November 8).
+37\. PH Barber^†^, JK. Barber-Choi, A Betancourt^¨†^, B Cuker, A Davis^¨^, **CR Fong**, P Fong, JJ Fong, DM Gibson^†^, TB Smith. Advancing diversity and inclusivity in ocean sciences by re-envisioning overlooked barriers in scientific diving training. [*Oceanography* *36(4):51-55*](https://tos.org/oceanography/article/advancing-diversity-and-inclusivity-in-ocean-sciences-by-re-envisioning-overlooked-barriers-in-scientific-diving-training)
 
-36\. **Fong CR**, Rennick M^†^, Gonzales CM^¨†^, Gardner LE, Halpern BS, Froehlich HE. Global yield from aquaculture systems. *Reviews in Aquaculture* (accept November 13).
+36\. **Fong CR**, Rennick M^†^, Gonzales CM^¨†^, Gardner LE, Halpern BS, Froehlich HE. Global yield from aquaculture systems. [*Reviews in Aquaculture 16(3):1021-1029*](https://onlinelibrary.wiley.com/doi/abs/10.1111/raq.12881?casa_token=Tz83Dr5E7y8AAAAA%3Awezdejl3Jqb7wMutFjNDD2cN7AbJcX5vK37SCFAPCqpuWXd_JuntRzvUf2b_pJgzeFfHjNffHuxxV4tPnw)
 
 35\. **Fong CR,** Smith LE^†^, Ryznar ER^†^, Fong P. Toward a trait-based framework for marine macroalgae. *In press* at *Journal of Ecology.* (March 23)
 
@@ -90,7 +90,7 @@ title: "Papers"
 
 13\. **Fong CR** and Kuris AM. Predation on transmission stages reduces parasitism: sea anemones consume transmission stages of a barnacle parasite. *Parasitology* 144(7):917-922.
 
-## 2016
+## 2016 and earlier
 
 12\. **Fong CR**, Moron NA^\*¨^, and Kuris AM. Two’s a crowd? Crowding effect in a parasitic castrator drives differences in reproductive resource allocation in single versus double infections. *Parasitology* 144(5):662-668.
 
@@ -103,8 +103,6 @@ title: "Papers"
 8\. Bittick SJ, Clausing RJ, **Fong CR**, and Fong P. Bolstered physical defenses under nutrient enriched conditions may facilitate a secondary foundational algal species in the South Pacific. *Journal of Ecology* 104(3):646-6536
 
 7\. **Fong CR**. High density and strong aggregation do not increase prevalence of an isopod parasite of an acorn barnacle. *Journal of Crustacean Biology* 36(1):46-49
-
-## 2015 and earlier
 
 6\. Keeley KN^\*^, Stroh JD^\*^, Tran DSC^\*^, **Fong CR**, and Fong P. (2015) Location, location, location: small shifts in collection site result in large intraspecific differences in macroalgal palatability. *Coral Reefs* 34(2):607-610.
 

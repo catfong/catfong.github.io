@@ -1,0 +1,35 @@
+/*-- scss:defaults --*/
+
+// fonts
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+//color 
+
+$pink: #AA7877;
+$lightpink: #DFC2C2;
+$teal: #51A2C2;
+$black: #000;
+$blue: #3A42AF; 
+
+// quarto sass variables
+
+$body-bg: $black; 
+$body-color: $lightpink; 
+$popover-bg: $pink; 
+$navbar-bg: $pink; 
+$toc-color: $teal;
+$navbar-hl: $black;
+
+/*-- scss:rules --*/
+
+
+h1 {
+  color: $blue;
+  letter-spacing: 2px;
+}
+
+h2, p{
+  color: $teal;
+}
+

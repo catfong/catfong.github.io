@@ -17,9 +17,10 @@ website:
 
 format:
   html:
-    theme: darkly
-    css: styles.css
+    theme: styles.scss
+    mainfont: Montserrat
     toc: true
+
 
 editor: visual
 
