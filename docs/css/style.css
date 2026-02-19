@@ -149,55 +149,12 @@ nav a:hover {
   text-decoration: underline;
 }
 
-/* Sections – MBA style, with optional image + text layout */
+/* Sections – MBA style (homepage: one hero, then simple sections) */
 section {
   padding: 4.5rem 2rem;
 }
 section:nth-child(even) {
   background: #f5f3ef;
-}
-.section-inner {
-  display: grid;
-  grid-template-columns: 1fr 1.2fr;
-  gap: 3rem;
-  align-items: center;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 2rem;
-}
-.section-inner-reverse {
-  direction: rtl;
-}
-.section-inner-reverse > * {
-  direction: ltr;
-}
-.section-inner-reverse .section-text {
-  text-align: left;
-}
-.section-visual {
-  border-radius: 10px;
-  overflow: hidden;
-  box-shadow: 0 4px 24px rgba(0,0,0,0.08);
-}
-.section-visual img {
-  width: 100%;
-  height: auto;
-  display: block;
-  vertical-align: middle;
-}
-.section-text {
-  min-width: 0;
-}
-@media (max-width: 768px) {
-  .section-inner,
-  .section-inner-reverse {
-    grid-template-columns: 1fr;
-    gap: 2rem;
-    direction: ltr;
-  }
-  .section-inner-reverse .section-text {
-    text-align: left;
-  }
 }
 .section-label {
   font-size: 0.8rem;
@@ -244,9 +201,25 @@ section a:hover {
   white-space: nowrap;
 }
 
+/* Inner-page banner – same photo world as homepage hero */
+.page-banner {
+  height: 42vh;
+  min-height: 280px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+.page-banner::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(0,61,81,0.75) 0%, rgba(0,61,81,0.2) 60%, transparent 100%);
+  pointer-events: none;
+}
+
 /* Page title (for about, projects, publications) – MBA editorial */
 .page-header {
-  padding: 3.5rem 2rem 2.5rem;
+  padding: 3rem 2rem 2.5rem;
   max-width: 1100px;
   margin: 0 auto;
   border-bottom: 1px solid #e8e6e3;
