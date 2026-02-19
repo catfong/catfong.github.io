@@ -1,10 +1,36 @@
 ---
 title: "About"
-about:
-  template: trestles
-  image: face.jpg
 ---
 
-# [Research interests]{.pink-text}
+![Dr. Cat Fong](face.jpg){.about-photo}
 
-<p class="pink-text">I am a broadly trained person who can do some really cool things</p>
+# Research & perspective
+
+I am a **systems ecologist** focused on **resilience and sustainability** across ecological and social systems. I work across marine and terrestrial systems—from coral reefs and aquaculture to wildfire and food production—to understand how systems respond to stress and how we can support outcomes that are both ecologically and socially durable.
+
+My approach is integrative: I combine trait-based ecology, data synthesis, and collaboration with practitioners and communities to ask questions that matter for policy and management. I'm especially interested in how we can design research and partnerships that build resilience at multiple scales.
+
+---
+
+# Research interests
+
+- **Systems ecology** — understanding feedbacks and linkages across ecosystems and human systems  
+- **Resilience** — what makes systems persist, adapt, or transform under change  
+- **Sustainability** — ecological and social dimensions of resource use and conservation  
+- **Cross-system research** — marine and terrestrial; ecology, data science, and practice  
+
+---
+
+# Position
+
+**Assistant Research Scientist**, [National Center for Ecological Analysis and Synthesis](https://www.nceas.ucsb.edu/) (NCEAS)
+
+---
+
+# Connect
+
+| | |
+|---|---|
+| **WWRI** | [Wildfire Risk Reduction Index](https://wildfireindex.org/) |
+| **X (Twitter)** | [@DrCatFong](https://x.com/DrCatFong) |
+| **GitHub** | [github.com/catfong](https://github.com/catfong) |

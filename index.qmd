@@ -1,18 +1,53 @@
 ---
 title: "Dr. Cat Fong"
-about:
-  template: jolla
-  image: face.jpg
-  links:
-    - icon: fire
-      text: WWRI
-      href: https://wildfireindex.org/
-    - icon: twitter
-      text: twitter
-      href: https://x.com/DrCatFong
-    - icon: github
-      text: Github
-      href: https://github.com/catfong
 ---
 
-Assistant Research Scientist at the National Center for Ecological Analysis and Synthesis
+::: {.hero style="background-image: url('https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1920&q=80');"}
+::: hero-content
+## Dr. Cat Fong
+
+Understanding resilience from ridge to reef—and how we can design for it. Systems ecologist and Assistant Research Scientist at the **National Center for Ecological Analysis and Synthesis** (NCEAS).
+
+[About me](about.qmd){.hero-cta}
+:::
+:::
+
+::: section-block
+::: section-label
+Research
+:::
+
+## Systems ecology for resilience and sustainability
+
+I work across marine and terrestrial systems to understand how ecological and social systems respond to change. From trait-based frameworks for seaweed and aquaculture to wildfire resilience and sustainable food production, my research focuses on building resilience at multiple scales—and on partnerships that connect science to practice.
+
+[Current projects](projects.qmd){.section-link}
+:::
+
+::: section-block
+::: section-label
+From ridge to reef
+:::
+
+## Linking land, water, and people
+
+My work spans ecosystems from forests to coral reefs. I'm interested in how we can understand and support resilience across these systems—and in collaborations that cross boundaries between disciplines, sectors, and places.
+
+[Publications](publications.qmd){.section-link}
+:::
+
+::: section-block
+::: section-label
+Connect
+:::
+
+## Work with me
+
+I'm actively building partnerships and interested in new projects that connect ecology, data, and real-world impact. Reach out via the links below.
+
+|                 |                                                             |
+|-----------------|-------------------------------------------------------------|
+| **WWRI**        | [Wildfire Risk Reduction Index](https://wildfireindex.org/) |
+| **X (Twitter)** | [\@DrCatFong](https://x.com/DrCatFong)                      |
+| **GitHub**      | [catfong](https://github.com/catfong)                       |
+:::

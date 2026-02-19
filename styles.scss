@@ -1,41 +1,198 @@
 /*-- scss:defaults --*/
 
-// fonts
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+// Clean, light, editorial (Monterey Bay Aquarium–style)
+$ocean: #00677f;
+$ocean-dark: #004d61;
+$sand: #f5f3ef;
+$white: #ffffff;
+$ink: #1a1a1a;
+$ink-soft: #3d3d3d;
 
-//color 
+$body-bg: $white;
+$body-color: $ink;
+$popover-bg: $white;
+$navbar-bg: $ocean;
+$navbar-fg: $white;
+$toc-color: $ocean;
+$navbar-hl: $sand;
+$link-color: $ocean;
+$link-hover-color: $ocean-dark;
 
-$pink: #AA7877;
-$lightpink: #DFC2C2;
-$teal: #51A2C2;
-$black: #000;
-$blue: #3A42AF; 
-
-//try again
-
-// quarto sass variables
-
-$body-bg: $black; 
-$body-color: $lightpink; 
-$popover-bg: $pink; 
-$navbar-bg: $pink; 
-$toc-color: $teal;
-$navbar-hl: $black;
+$font-size-base: 1.125rem;
 
 /*-- scss:rules --*/
 
+:root {
+  --section-bg: #f5f3ef;
+  --heading-color: #004d61;
+}
+
+body {
+  font-family: "Source Sans 3", system-ui, sans-serif;
+  font-size: $font-size-base;
+  line-height: 1.6;
+  color: $ink;
+}
+
+h1, h2, h3, .navbar-brand {
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  color: var(--heading-color);
+}
 
 h1 {
-  color: $blue;
-  letter-spacing: 2px;
+  font-size: clamp(1.75rem, 4vw, 2.75rem);
+  line-height: 1.2;
 }
 
-h2, p {
-  color: $teal;
+h2 {
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  margin-top: 0.5em;
 }
 
-  .pink-text {
-    color:$pink;
-  }
+h3 {
+  font-size: 1.35rem;
+  color: $ocean;
+}
 
+p, li {
+  color: $ink-soft;
+  font-size: 1.125rem;
+  line-height: 1.7;
+}
+
+a {
+  color: $ocean;
+  font-weight: 500;
+}
+a:hover {
+  color: $ocean-dark;
+}
+
+.navbar {
+  background: $ocean !important;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+.navbar-brand, .navbar-nav .nav-link {
+  color: $white !important;
+  font-size: 1.05rem;
+}
+.navbar-nav .nav-link:hover {
+  color: $sand !important;
+}
+
+/* Single hero: one image, one headline, one CTA */
+.hero {
+  position: relative;
+  width: 100%;
+  min-height: 70vh;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: -1rem -1rem 3rem -1rem;
+}
+.hero::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(0,61,81,0.75) 0%, rgba(0,61,81,0.2) 45%, transparent 70%);
+  pointer-events: none;
+}
+.hero-content {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  color: $white;
+  max-width: 36em;
+  padding: 2rem 1.5rem;
+}
+.hero-content h1 {
+  color: $white;
+  text-shadow: 0 2px 8px rgba(0,0,0,0.3);
+  margin-bottom: 0.75rem;
+}
+.hero-content .hero-lead {
+  font-size: 1.25rem;
+  line-height: 1.5;
+  opacity: 0.98;
+  margin-bottom: 1.5rem;
+}
+.hero-content .hero-cta {
+  display: inline-block;
+  background: $white;
+  color: $ocean;
+  padding: 0.65rem 1.5rem;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 1.05rem;
+  text-decoration: none;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+.hero-content .hero-cta:hover {
+  background: $sand;
+  color: $ocean-dark;
+}
+
+/* MBA-style section: small over-label, then H2, body, link */
+.section-block {
+  padding: 3rem 0;
+  background: var(--section-bg);
+  margin: 0 -1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.section-block + .section-block {
+  margin-top: 0;
+}
+.section-block:nth-of-type(even) {
+  background: $white;
+}
+.section-label {
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: $ocean;
+  margin-bottom: 0.5rem;
+}
+.section-block h2 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+}
+.section-block .section-link {
+  display: inline-block;
+  margin-top: 1rem;
+  font-weight: 600;
+  font-size: 1.05rem;
+}
+
+/* Compact section (no alternating bg) */
+.section-compact {
+  padding: 2rem 0;
+}
+
+/* About page profile */
+.about-photo {
+  border-radius: 50%;
+  max-width: 220px;
+  border: 3px solid $ocean;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+}
+
+.quarto-content {
+  font-size: 1.1rem;
+}
+.quarto-content blockquote {
+  font-size: 1.15rem;
+  border-left-color: $ocean;
+}
+.quarto-content table {
+  font-size: 1.1rem;
+}
+.quarto-content td, .quarto-content th {
+  padding: 0.5rem 0.75rem;
+}

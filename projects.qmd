@@ -2,34 +2,34 @@
 title: "Projects"
 ---
 
-# Wildfire in the west
+# Current work
 
-I am doing some cool things with some super cool people
+I lead and contribute to projects that sit at the intersection of **ecology**, **resilience**, and **sustainability**—spanning wildfire, marine systems, and food production. Collaboration is central to how I work.
 
-Joe
+---
 
-:   worked with him for a while
+## Wildfire in the West
 
-Mona
+Building understanding and tools for **wildfire resilience** in western landscapes—working with partners to link ecology, risk, and community needs. This work connects systems thinking on the ground with data and decision support (e.g. [Wildfire Risk Reduction Index](https://wildfireindex.org/)).
 
-:   She is newer, MS from Reno
+**Collaborators:** Joe, Mona, Carlo, Erika — a tight team bringing field experience, modeling, and regional expertise together.
 
-Carlo
+![Wildfire and forest resilience](forest.jpg)
 
-:   He will leave in April
+---
 
-Erika
+## Trait-based framework for seaweed ecology
 
-:   She likes movies
+Advancing a **trait-based framework** for marine macroalgae to better understand ecology, resilience, and sustainable use. I'm developing this line of work with collaborators and am keen to expand partnerships—especially where traits meet aquaculture, restoration, or climate adaptation.
 
-![](forest.jpg)
+![Trait-based seaweed ecology](face.jpg)
 
-# Advancing a trait-based framework for seaweed ecology
+---
 
-I have many ideas here and I'm very excited to do more things. I am very interested in forming collaborations and talking to everyone!
+## Sustainable food production
 
-![](face.jpg)
+Exploring how **sustainability** in food production can be understood and supported across systems—from aquaculture to terrestrial agriculture. Food systems are a critical nexus for resilience, equity, and ecology; I'm interested in research that connects these dimensions.
 
-# Sustainable food production
+---
 
-I love food. And it is important!
+*For publications, see [Publications](publications.qmd). To collaborate or discuss ideas, reach out via the links on [About](about.qmd).*

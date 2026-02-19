@@ -4,23 +4,23 @@ project:
 
 website:
   title: "Dr. Cat Fong"
+  site-url: https://catfong.github.io
   navbar:
     right:
       - href: index.qmd
-        text: Hello!
+        text: Home
       - href: about.qmd
         text: About
       - href: projects.qmd
-        text: Current Projects
+        text: Projects
       - href: publications.qmd
-        text: Papers
+        text: Publications
 
 format:
   html:
     theme: styles.scss
-    mainfont: Montserrat
+    mainfont: Source Sans 3
     toc: true
-
+    link-external-newwindow: true
 
 editor: visual
-
