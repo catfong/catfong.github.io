@@ -4,21 +4,105 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Research interests\n\nI am a broadly trained person who can do some really cool things"
+    "text": "Dr. Cat Fong\n\n\n\nResearch & perspective\nI am a systems ecologist focused on resilience and sustainability across ecological and social systems. I work across marine and terrestrial systems—from coral reefs and aquaculture to wildfire and food production—to understand how systems respond to stress and how we can support outcomes that are both ecologically and socially durable.\nMy approach is integrative: I combine trait-based ecology, data synthesis, and collaboration with practitioners and communities to ask questions that matter for policy and management. I’m especially interested in how we can design research and partnerships that build resilience at multiple scales.\n\n\n\nResearch interests\n\nSystems ecology — understanding feedbacks and linkages across ecosystems and human systems\n\nResilience — what makes systems persist, adapt, or transform under change\n\nSustainability — ecological and social dimensions of resource use and conservation\n\nCross-system research — marine and terrestrial; ecology, data science, and practice\n\n\n\n\nPosition\nAssistant Research Scientist, National Center for Ecological Analysis and Synthesis (NCEAS)\n\n\n\nConnect\n\n\n\nWWRI\nWildfire Risk Reduction Index\n\n\nX (Twitter)\n@DrCatFong\n\n\nGitHub\ngithub.com/catfong"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Dr. Cat Fong",
     "section": "",
-    "text": "Assistant Research Scientist at the National Center for Ecological Analysis and Synthesis"
+    "text": "Understanding resilience from ridge to reef—and how we can design for it. Systems ecologist and Assistant Research Scientist at the National Center for Ecological Analysis and Synthesis (NCEAS).\nAbout me"
+  },
+  {
+    "objectID": "index.html#dr.-cat-fong",
+    "href": "index.html#dr.-cat-fong",
+    "title": "Dr. Cat Fong",
+    "section": "",
+    "text": "Understanding resilience from ridge to reef—and how we can design for it. Systems ecologist and Assistant Research Scientist at the National Center for Ecological Analysis and Synthesis (NCEAS).\nAbout me"
+  },
+  {
+    "objectID": "index.html#systems-ecology-for-resilience-and-sustainability",
+    "href": "index.html#systems-ecology-for-resilience-and-sustainability",
+    "title": "Dr. Cat Fong",
+    "section": "Systems ecology for resilience and sustainability",
+    "text": "Systems ecology for resilience and sustainability\nI work across marine and terrestrial systems to understand how ecological and social systems respond to change. From trait-based frameworks for seaweed and aquaculture to wildfire resilience and sustainable food production, my research focuses on building resilience at multiple scales—and on partnerships that connect science to practice.\nCurrent projects"
+  },
+  {
+    "objectID": "index.html#linking-land-water-and-people",
+    "href": "index.html#linking-land-water-and-people",
+    "title": "Dr. Cat Fong",
+    "section": "Linking land, water, and people",
+    "text": "Linking land, water, and people\nMy work spans ecosystems from forests to coral reefs. I’m interested in how we can understand and support resilience across these systems—and in collaborations that cross boundaries between disciplines, sectors, and places.\nPublications"
+  },
+  {
+    "objectID": "index.html#work-with-me",
+    "href": "index.html#work-with-me",
+    "title": "Dr. Cat Fong",
+    "section": "Work with me",
+    "text": "Work with me\nI’m actively building partnerships and interested in new projects that connect ecology, data, and real-world impact. Reach out via the links below.\n\n\n\nWWRI\nWildfire Risk Reduction Index\n\n\nX (Twitter)\n@DrCatFong\n\n\nGitHub\ncatfong"
+  },
+  {
+    "objectID": "IMAGES.html",
+    "href": "IMAGES.html",
+    "title": "Images and assets for your site",
+    "section": "",
+    "text": "This file is a short guide so you can add or swap images without touching code.\n\n\n\nPut image files (e.g. face.jpg, forest.jpg, hero.jpg) in the same folder as your .qmd files (the root of catfong.github.io/).\nThe site already uses:\n\nface.jpg — About page and Projects (trait-based seaweed section)\nforest.jpg — Projects (Wildfire in the West)\n\n\n\n\n\nTo use a full-width hero image on the homepage instead of the gradient:\n\nAdd a file, e.g. hero.jpg, to the project root.\nIn index.qmd, change the hero block to use it. Replace the opening of the hero div with a version that sets a background image, e.g. in styles.scss add:\n.hero-wrap.with-image {\n  background-image: linear-gradient(var(--hero-overlay), var(--hero-overlay)), url('hero.jpg');\n}\nThen add the class with-image to the hero div in index.qmd.\n\nOr keep the current gradient—it works with no image and stays bold and professional.\n\n\n\n\nUnsplash (unsplash.com) — Search: “ecology”, “coral reef”, “forest resilience”, “sustainability”, “field research”, “woman scientist”.\nPexels (pexels.com) — Same kinds of terms; good for nature and people.\nYour own — Field work, lab, or a clear headshot for face.jpg are strongest for a “fund her” vibe.\n\n\n\n\nTo embed a short video (e.g. 30–60 seconds about your work or a project):\n\nHost it on YouTube or Vimeo (unlisted is fine).\nIn any .qmd file, add:\n::: {.ratio .ratio-16x9}\n&lt;iframe src=\"YOUR_VIDEO_EMBED_URL\" allowfullscreen&gt;&lt;/iframe&gt;\n:::\n\nA single, high-impact hero image or one short video on the homepage can make the site feel even more engaging."
+  },
+  {
+    "objectID": "IMAGES.html#where-images-go",
+    "href": "IMAGES.html#where-images-go",
+    "title": "Images and assets for your site",
+    "section": "",
+    "text": "Put image files (e.g. face.jpg, forest.jpg, hero.jpg) in the same folder as your .qmd files (the root of catfong.github.io/).\nThe site already uses:\n\nface.jpg — About page and Projects (trait-based seaweed section)\nforest.jpg — Projects (Wildfire in the West)"
+  },
+  {
+    "objectID": "IMAGES.html#hero-image-optional",
+    "href": "IMAGES.html#hero-image-optional",
+    "title": "Images and assets for your site",
+    "section": "",
+    "text": "To use a full-width hero image on the homepage instead of the gradient:\n\nAdd a file, e.g. hero.jpg, to the project root.\nIn index.qmd, change the hero block to use it. Replace the opening of the hero div with a version that sets a background image, e.g. in styles.scss add:\n.hero-wrap.with-image {\n  background-image: linear-gradient(var(--hero-overlay), var(--hero-overlay)), url('hero.jpg');\n}\nThen add the class with-image to the hero div in index.qmd.\n\nOr keep the current gradient—it works with no image and stays bold and professional."
+  },
+  {
+    "objectID": "IMAGES.html#finding-free-professional-images",
+    "href": "IMAGES.html#finding-free-professional-images",
+    "title": "Images and assets for your site",
+    "section": "",
+    "text": "Unsplash (unsplash.com) — Search: “ecology”, “coral reef”, “forest resilience”, “sustainability”, “field research”, “woman scientist”.\nPexels (pexels.com) — Same kinds of terms; good for nature and people.\nYour own — Field work, lab, or a clear headshot for face.jpg are strongest for a “fund her” vibe."
+  },
+  {
+    "objectID": "IMAGES.html#video-optional",
+    "href": "IMAGES.html#video-optional",
+    "title": "Images and assets for your site",
+    "section": "",
+    "text": "To embed a short video (e.g. 30–60 seconds about your work or a project):\n\nHost it on YouTube or Vimeo (unlisted is fine).\nIn any .qmd file, add:\n::: {.ratio .ratio-16x9}\n&lt;iframe src=\"YOUR_VIDEO_EMBED_URL\" allowfullscreen&gt;&lt;/iframe&gt;\n:::\n\nA single, high-impact hero image or one short video on the homepage can make the site feel even more engaging."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Wildfire in the west\nI am doing some cool things with some super cool people\n\nJoe\n\nworked with him for a while\n\nMona\n\nShe is newer, MS from Reno\n\nCarlo\n\nHe will leave in April\n\nErika\n\nShe likes movies\n\n\n\n\n\nAdvancing a trait-based framework for seaweed ecology\nI have many ideas here and I’m very excited to do more things. I am very interested in forming collaborations and talking to everyone!\n\n\n\nSustainable food production\nI love food. And it is important!"
+    "text": "I lead and contribute to projects that sit at the intersection of ecology, resilience, and sustainability—spanning wildfire, marine systems, and food production. Collaboration is central to how I work.\n\n\n\nBuilding understanding and tools for wildfire resilience in western landscapes—working with partners to link ecology, risk, and community needs. This work connects systems thinking on the ground with data and decision support (e.g. Wildfire Risk Reduction Index).\nCollaborators: Joe, Mona, Carlo, Erika — a tight team bringing field experience, modeling, and regional expertise together.\n\n\n\nWildfire and forest resilience\n\n\n\n\n\n\nAdvancing a trait-based framework for marine macroalgae to better understand ecology, resilience, and sustainable use. I’m developing this line of work with collaborators and am keen to expand partnerships—especially where traits meet aquaculture, restoration, or climate adaptation.\n\n\n\nTrait-based seaweed ecology\n\n\n\n\n\n\nExploring how sustainability in food production can be understood and supported across systems—from aquaculture to terrestrial agriculture. Food systems are a critical nexus for resilience, equity, and ecology; I’m interested in research that connects these dimensions.\n\nFor publications, see Publications. To collaborate or discuss ideas, reach out via the links on About."
+  },
+  {
+    "objectID": "projects.html#wildfire-in-the-west",
+    "href": "projects.html#wildfire-in-the-west",
+    "title": "Projects",
+    "section": "",
+    "text": "Building understanding and tools for wildfire resilience in western landscapes—working with partners to link ecology, risk, and community needs. This work connects systems thinking on the ground with data and decision support (e.g. Wildfire Risk Reduction Index).\nCollaborators: Joe, Mona, Carlo, Erika — a tight team bringing field experience, modeling, and regional expertise together.\n\n\n\nWildfire and forest resilience"
+  },
+  {
+    "objectID": "projects.html#trait-based-framework-for-seaweed-ecology",
+    "href": "projects.html#trait-based-framework-for-seaweed-ecology",
+    "title": "Projects",
+    "section": "",
+    "text": "Advancing a trait-based framework for marine macroalgae to better understand ecology, resilience, and sustainable use. I’m developing this line of work with collaborators and am keen to expand partnerships—especially where traits meet aquaculture, restoration, or climate adaptation.\n\n\n\nTrait-based seaweed ecology"
+  },
+  {
+    "objectID": "projects.html#sustainable-food-production",
+    "href": "projects.html#sustainable-food-production",
+    "title": "Projects",
+    "section": "",
+    "text": "Exploring how sustainability in food production can be understood and supported across systems—from aquaculture to terrestrial agriculture. Food systems are a critical nexus for resilience, equity, and ecology; I’m interested in research that connects these dimensions.\n\nFor publications, see Publications. To collaborate or discuss ideas, reach out via the links on About."
   },
   {
     "objectID": "publications.html",
