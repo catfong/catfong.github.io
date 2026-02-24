@@ -10,16 +10,16 @@ I lead and contribute to projects that sit at the intersection of **ecology**, *
 
 ::: {.panel .panel-ridge}
 ::: {.project-block .project-block-with-video}
-::: {.project-block-content}
+::: project-block-content
 ## Wildfire in the West
 
-Building understanding and tools for **wildfire resilience** in western landscapes—working with partners to link ecology, risk, and community needs. This work connects systems thinking on the ground with data and decision support (e.g. [Wildfire Risk Reduction Index](https://wildfireindex.org/)).
-
-**Collaborators:** Joe, Mona, Carlo, Erika — a tight team bringing field experience, modeling, and regional expertise together.
+Building understanding and tools for **wildfire resilience** in western landscapes—working with partners to link ecology, risk, and community needs. This work connects systems thinking on the ground with data and decision support (e.g. [Wildfire Resilience Index](https://wildfireindex.org/)).
 :::
 
-::: {.project-block-media}
-<video class="project-video" src="video/wri.mp4" controls playsinline></video>
+::: project-block-media
+<video class="project-video" src="video/wri.mp4" controls playsinline>
+
+</video>
 :::
 :::
 :::
@@ -34,6 +34,4 @@ Advancing a **trait-based framework** for marine macroalgae to better understand
 ## Sustainable food production
 
 Exploring how **sustainability** in food production can be understood and supported across systems—from aquaculture to terrestrial agriculture. Food systems are a critical nexus for resilience, equity, and ecology; I'm interested in research that connects these dimensions.
-
-*For publications, see [Publications](publications.qmd). To collaborate or discuss ideas, reach out via the links on [About](about.qmd).*
 :::
