@@ -275,6 +275,50 @@ section a:hover {
 .main-content p {
   max-width: 68ch;
 }
+
+/* Project block with video on the side */
+.project-block {
+  margin-top: 2rem;
+  margin-bottom: 2.5rem;
+}
+.project-block-with-video {
+  display: grid;
+  grid-template-columns: 1fr  minmax(280px, 42%);
+  gap: 2.5rem;
+  align-items: start;
+  max-width: 1200px;
+}
+.project-block-content {
+  min-width: 0;
+}
+.project-block-content h2 {
+  margin-top: 0;
+}
+.project-block-media {
+  position: sticky;
+  top: 1.5rem;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.1);
+  background: #111;
+}
+.project-video {
+  width: 100%;
+  height: auto;
+  display: block;
+  vertical-align: middle;
+}
+@media (max-width: 768px) {
+  .project-block-with-video {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  .project-block-media {
+    position: static;
+    max-width: 100%;
+  }
+}
+
 .about-photo {
   width: 220px;
   height: 220px;
