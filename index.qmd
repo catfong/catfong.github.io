@@ -12,7 +12,7 @@ Understanding resilience from ridge to reef—and how we can design for it. Syst
 :::
 :::
 
-::: section-block
+::: {.panel .panel-research}
 ::: section-label
 Research
 :::
@@ -24,7 +24,7 @@ I work across marine and terrestrial systems to understand how ecological and so
 [Current projects](projects.qmd){.section-link}
 :::
 
-::: section-block
+::: {.panel .panel-ridge}
 ::: section-label
 From ridge to reef
 :::
@@ -36,7 +36,7 @@ My work spans ecosystems from forests to coral reefs. I'm interested in how we c
 [Publications](publications.qmd){.section-link}
 :::
 
-::: section-block
+::: {.panel .panel-connect}
 ::: section-label
 Connect
 :::

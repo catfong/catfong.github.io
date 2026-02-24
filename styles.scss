@@ -137,7 +137,37 @@ a:hover {
   color: $ocean-dark;
 }
 
-/* MBA-style section: small over-label, then H2, body, link */
+/* Paneled color palette (NCEAS-style visual breaks) */
+.panel {
+  padding: 4.5rem 2rem;
+  border-top: 1px solid rgba(0, 103, 127, 0.12);
+}
+.panel-research {
+  background: #f5f3ef;
+}
+.panel-ridge {
+  background: #e8f2f4;
+}
+.panel-connect {
+  background: #f0f6f8;
+}
+.panel .section-label,
+.panel .section-block .section-label {
+  color: $ocean;
+}
+.panel h2 {
+  color: $ocean-dark;
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+}
+.panel .section-link {
+  display: inline-block;
+  margin-top: 1rem;
+  font-weight: 600;
+  font-size: 1.05rem;
+}
+
+/* MBA-style section (used inside panels or standalone) */
 .section-block {
   padding: 3rem 0;
   background: var(--section-bg);
@@ -168,6 +198,45 @@ a:hover {
   margin-top: 1rem;
   font-weight: 600;
   font-size: 1.05rem;
+}
+
+/* Project block with video on the side (Projects page) */
+.project-block-with-video {
+  display: grid;
+  grid-template-columns: 1fr minmax(280px, 42%);
+  gap: 2.5rem;
+  align-items: start;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.project-block-content {
+  min-width: 0;
+}
+.project-block-content h2 {
+  margin-top: 0;
+}
+.project-block-media {
+  position: sticky;
+  top: 1.5rem;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.1);
+  background: #111;
+}
+.project-video {
+  width: 100%;
+  height: auto;
+  display: block;
+  vertical-align: middle;
+}
+@media (max-width: 768px) {
+  .project-block-with-video {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  .project-block-media {
+    position: static;
+  }
 }
 
 /* Compact section (no alternating bg) */
