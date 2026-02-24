@@ -149,12 +149,28 @@ nav a:hover {
   text-decoration: underline;
 }
 
-/* Sections – MBA style (homepage: one hero, then simple sections) */
-section {
+/* Sections – paneled color palette (NCEAS livelihoods–style visual breaks) */
+.panel {
   padding: 4.5rem 2rem;
+  border-top: 1px solid rgba(0, 103, 127, 0.12);
 }
-section:nth-child(even) {
-  background: #f5f3ef;
+.panel-research {
+  background: #f5f3ef;   /* warm sand/cream */
+}
+.panel-ridge {
+  background: #e8f2f4;    /* soft teal tint */
+}
+.panel-connect {
+  background: #f0f6f8;    /* light blue-gray */
+}
+section.panel .section-label {
+  color: #00677f;
+}
+section.panel h2 {
+  color: #004d61;
+}
+section.panel p {
+  color: #333;
 }
 .section-label {
   font-size: 0.8rem;
@@ -245,6 +261,9 @@ section a:hover {
   font-size: 1.15rem;
   line-height: 1.75;
   color: #333;
+}
+.main-content--tight {
+  padding: 2rem;
 }
 .main-content h2 {
   font-size: 1.7rem;
